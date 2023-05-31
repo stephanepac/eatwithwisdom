@@ -1,5 +1,5 @@
 import csv
-site="https://eatwithwisdom.netlify.app/"
+site="https://github.com/stephanepac/eatwithwisdom/"
 sitemap="<urlset>"
 pages=['a_propos.html',"index.html","articles.html"]
 for page in pages:
