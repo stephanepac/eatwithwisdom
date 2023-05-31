@@ -15,6 +15,6 @@ sitemap+="</urlset>"
 
 fichier.close()
 
-fichier_sitemap=open("sitemap.xml","w")
+fichier_sitemap=open("site.xml","w")
 fichier_sitemap.write(sitemap)
 fichier_sitemap.close()
